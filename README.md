@@ -44,15 +44,10 @@ Solutions to common DSA problems using Java — Arrays, LinkedList, HashMap, Sor
 
 ---
 
-## 📊 GitHub Stats
-
-![Madhumitha's GitHub stats](https://github-readme-stats.vercel.app/api?username=MadhumithaSakthivel1004&show_icons=true&theme=default)
-
----
-
 ## 📫 Connect with me
 
 - 📍 Namakkal, Tamil Nadu
 - 💼 Open to **Java Developer / Backend Developer** roles
 - 📧 Reach me via GitHub
-- mail: madhumithasakthivel22@gmail.com 
+- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:madhumithasakthivel22@gmail.com) madhumithasakthivel22@gmail.com
+  
