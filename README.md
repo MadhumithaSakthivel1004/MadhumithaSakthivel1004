@@ -30,19 +30,7 @@
 
 ---
 
-## 🚀 Featured Projects
 
-### 📦 [Student Management REST API](https://github.com/MadhumithaSakthivel1004/student-management-api)
-> Spring Boot · MySQL · REST API · Spring Data JPA
-
-A full CRUD REST API to manage student records. Supports create, read, update, and delete operations with proper HTTP status codes.
-
-### ☕ [Java DSA Practice](https://github.com/MadhumithaSakthivel1004/java-dsa-practice)
-> Core Java · OOP · Data Structures
-
-Solutions to common DSA problems using Java — Arrays, LinkedList, HashMap, Sorting algorithms, and OOP concepts.
-
----
 
 ## 📫 Connect with me
 
